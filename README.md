@@ -3,7 +3,7 @@
 <br/>
 
 <p align="center">
-  <img src="./art/soliumcast_2.gif">
+  <img src="./art/soliumcast_3.gif">
 </p>
 <br/>
 
