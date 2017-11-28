@@ -46,6 +46,8 @@ This creates 2 files for you:
 }
 ```
 
+To know which lint rules Solium applies for you, see [Core rules](http://solium.readthedocs.io/en/latest/user-guide.html#list-of-core-rules) and [Security rules](https://github.com/duaraghav8/solium-plugin-security/tree/661c2b4f1ea0aa1fea95a78abc3d2287d63f3048#list-of-rules)
+
 ### Lint a single Solidity file
 ```bash
 solium -f ./contracts/foobar.sol
@@ -63,6 +65,14 @@ Solium automatically fixes your code to resolve whatever issues it can.
 ```bash
 solium -d contracts --fix
 ```
+
+# IDE & Editor Integrations
+- [VS Code: Solidity with Solium linting by Juan Blanco](https://marketplace.visualstudio.com/items?itemName=JuanBlanco.solidity)
+- [VS Code: Solidity with Solium linting by CodeChain.io](https://marketplace.visualstudio.com/items?itemName=kodebox.solidity-language-server)
+- [Sublime Solium Gutter by Florian Sey](https://github.com/sey/sublime-solium-gutter)
+- [Sublime Solium Linter by Alex Step](https://github.com/alexstep/SublimeLinter-contrib-solium)
+- [Atom Solium Linter by Travis Jacobs](https://github.com/travs/linter-solium)
+- [Syntastic local solium by Brett Sun](https://github.com/sohkai/syntastic-local-solium.vim)
 
 # Migrating from v0
 If you're currently using Solium `v0`, we highly recommend you to [migrate to v1](http://solium.readthedocs.io/en/latest/user-guide.html#migrating-to-v1-0-0). v1 is backward compatible and provides you with much greater flexibility to configure rules, powerful security rules and auto code formatting among other features.
