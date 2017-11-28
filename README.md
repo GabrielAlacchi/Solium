@@ -7,7 +7,7 @@
 
 <br/>
 <p align="center">
-  <img src="https://thumbs.gfycat.com/ValidBleakGermanshorthairedpointer-size_restricted.gif">
+  <img src="./art/soliumcast_3.gif">
 </p>
 <br/>
 
